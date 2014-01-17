@@ -19,23 +19,37 @@ Rodinal
 ## Prozess ##
 Zum Beispiel Tri-X (400)
 
-1. 500ml 20 °C warmes Wasser in Behälter mit 20ml Rodinal vermixen
-2. Timer auf 7 Minuten stellen
-3. Entwickler in Dose gießen
-4. In der ersten Minute: Ab der ersten Sekunde Dose kippen und das 5 Sekunden lang
-5. Im Rythmus: 5 Sekunden hinstellen, 5 Sekunden kippen, usw.
-6. Ab der zweiten Minute: Alle 30 Sekunden 5 Sekunden lang kippen
-7. Nach Ablauf der Entwicklungszeit den alten Entwickler in behälter füllen
-8. 3 mal Dose mit Wasser füllen und entleeren
-9. Fixierer einfüllen
-10. 10 Minuten warten
-11. Fixierer zurück in Behälter
-12. Wasser in Dose füllen
-13. 5 mal kippen und ausleeren
-14. Wasser in Dose füllen
-15. 10 mal kippen und ausleeren
-16. Wasser in Dose füllen
-17. 20 mal kippen und ausleeren
-18. Dose öffnen und Filmspirale herrausnehmen
-19. 10 mal in Netzmittel tauchen
-20. Abtropfen lassen und Film zum Trocknen aufhängen
+### Vorbereitungen ###
+* 500ml 20 °C warmes Wasser in Behälter mit 20ml Rodinal vermixen
+* Anderen Behälter mit einem Liter destilliertes Wasser füllen und mit einem Tropfen Netzmittel verrühren
+* Timer auf 7 Minuten stellen
+
+### Entwicklung ###
+
+* Entwickler in Dose gießen
+* In der ersten Minute: Ab der ersten Sekunde Dose kippen und das 5 Sekunden lang
+* Im Rythmus: 5 Sekunden hinstellen, 5 Sekunden kippen, usw.
+* Ab der zweiten Minute: Alle 30 Sekunden 5 Sekunden lang kippen
+* Nach Ablauf der Entwicklungszeit den alten Entwickler in behälter füllen
+* 3 mal Dose mit Wasser füllen und entleeren
+
+### Fixieren ###
+
+* Fixierer einfüllen
+* 10 Minuten warten
+* Fixierer zurück in Behälter
+
+### Waschen ###
+
+* Wasser in Dose füllen
+* 5 mal kippen und ausleeren
+* Wasser in Dose füllen
+* 10 mal kippen und ausleeren
+* Wasser in Dose füllen
+* 20 mal kippen und ausleeren
+* Dose öffnen und Filmspirale herrausnehmen
+
+### Netzmittel und Trocknung
+
+* 10 mal in angerührtes Wasser mit Netzmittel tauchen
+* Abtropfen lassen und Film zum Trocknen aufhängen
