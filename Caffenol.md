@@ -1,6 +1,6 @@
 # Caffenol
 
-![rezepte](./caffenol.jpg)
+![rezepte](./Caffenol.jpg)
 
 ## HP5
 - 500ml destilliertes Wasser
