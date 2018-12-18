@@ -3,7 +3,7 @@ Rodinal
 
 ## Entwicklungszeiten ##
 
-### HP5+ (120)###
+### HP5+ (120) ###
 1+25 6:00 Minuten bei 20°C
 
 ### HP5+ (135) ###
