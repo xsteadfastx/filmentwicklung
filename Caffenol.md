@@ -9,7 +9,7 @@
 - 0.5g Kaliumbromid
 - 20g Instant Kaffee
 
-1. Zutaten in Reihenfolge auflösen
+1. Zutaten in Reihenfolge auflösen: __jeweils warten bis alle Blasen verschwunden sind__
 2. Achten auf Temperatur: __20°C__
 3. Timer stellen: __15 Minuten__
 4. Eingießen und die ersten __60 Sekunden__ kippen (2 Sekunden Rhythmus)
